@@ -29,6 +29,5 @@ def sendmessage():
 send_button=CTkButton(main_widget,text="Send",command=sendmessage)
 
 
-
 send_button.pack(expand=True)
 main_widget.mainloop()
